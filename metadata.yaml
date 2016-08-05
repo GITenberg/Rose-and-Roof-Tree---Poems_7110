@@ -1,0 +1,26 @@
+_repo: Rose-and-Roof-Tree---Poems_7110
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lathrop, George Parsons
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '2341'
+    url: http://www.gutenberg.org/2009/agents/2341
+    wikipedia: http://en.wikipedia.org/wiki/George_Parsons_Lathrop
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- GITenberg
+title: Rose and Roof-Tree — Poems
+url: http://www.gutenberg.org/ebooks/7110
